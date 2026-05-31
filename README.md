@@ -207,10 +207,12 @@ We also use physically-based renderings from the [3D-FRONT](https://tianchi.aliy
 If you find PixARMesh useful in your research, please consider citing:
 
 ```bibtex
-@article{zhang2026pixarmesh,
-  title={PixARMesh: Autoregressive Mesh-Native Single-View Scene Reconstruction},
-  author={Zhang, Xiang and Yoo, Sohyun and Wu, Hongrui and Li, Chuan and Xie, Jianwen and Tu, Zhuowen},
-  journal={arXiv preprint arXiv:2603.05888},
-  year={2026}
+@inproceedings{zhang2026pixarmesh,
+    author    = {Zhang, Xiang and Yoo, Sohyun and Wu, Hongrui and Li, Chuan and Xie, Jianwen and Tu, Zhuowen},
+    title     = {PixARMesh: Autoregressive Mesh-Native Single-View Scene Reconstruction},
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+    month     = {June},
+    year      = {2026},
+    pages     = {5881-5891}
 }
 ```
