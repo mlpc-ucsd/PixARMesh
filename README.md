@@ -38,7 +38,7 @@
 
 <h3 align="center">
   <a href="https://mlpc-ucsd.github.io/PixARMesh/"><strong>Project Page</strong></a> |
-  <a href="https://arxiv.org/pdf/2603.05888"><strong>Paper</strong></a> |
+  <a href="https://openaccess.thecvf.com/content/CVPR2026/papers/Zhang_PixARMesh_Autoregressive_Mesh-Native_Single-View_Scene_Reconstruction_CVPR_2026_paper.pdf"><strong>Paper</strong></a> |
   <a href="https://arxiv.org/abs/2603.05888"><strong>arXiv</strong></a>
 </h3>
 
